@@ -1,7 +1,7 @@
 //////////////////////////////////////
 *Description:MiniProject to display the calendar of any year
 *Date: 23-June-2021
-*Author: Shruti
+*Author: Shruti Nahar
 /////////////////////////////////////////
 #include <stdio.h>
 #include <stdlib.h> 
