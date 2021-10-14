@@ -1,0 +1,87 @@
+#outer {
+    width: 110%;
+    max-width: 600px;
+    background: rgb(243, 238, 238);
+    margin: 0 auto;
+}
+
+#cover {
+    border: 3px solid #111;
+    padding: 15px 30px;
+    background-color: lightpink;
+}
+
+.main {
+    table-layout: fixed;
+    width: 94%;
+    border: 0;
+    border-collapse: collapse;
+    margin: 0 auto;
+    font-size: 23px;
+}
+
+.main td {
+    padding: 10px 7px;
+    font-size: 23px;
+    vertical-align: middle;
+   
+}
+
+.main input {
+    width: 100%;
+    border: 1px solid #ccc;
+    margin: 2px 0;
+    font-size: 23px;
+    border-radius: 5px;
+    border:2.1px solid blue;
+    padding: 0 2%;
+    
+    text-align: center;
+}
+
+
+.b {
+    font-size: 24px;
+    border: 3px solid #111;
+    font-weight: bold;
+    text-align: center;
+}
+
+.main select {
+    width: 100%;
+    border: 1px solid #ccc;
+    margin: 2px 0;
+    background: #fff;
+    height: 22px
+}
+
+.w50 {
+    width: 50%
+}
+
+.main button {
+    width: 100%;
+    font-size: 22px;
+    font-weight: bold;
+    margin: 3px 100px;
+    border: 2px solid black;
+}
+
+/*.main tr:hover {background-color: cyan;}*/
+.main th{
+  padding-top: 15px;
+  padding-bottom: 15px;
+  text-align: center;
+  background-color: lightpink;
+  color: Black;
+}
+
+#cal
+{
+  background-color : Tomato;
+   font-size: 25px;
+   font-weight:bold;
+   font-family: "cursive";
+   border: 2px solid black;
+   margin: 3px 100px;
+}
